@@ -12,7 +12,7 @@ const AdvertWidget = () => {
     <WidgetWrapper>
       <FlexBetween>
         <Typography color={dark} variant="h5" fontWeight="500">
-          Sponsored
+          Publicidad
         </Typography>
         <Typography color={medium}>Create Ad</Typography>
       </FlexBetween>
@@ -28,8 +28,7 @@ const AdvertWidget = () => {
         <Typography color={medium}>mikacosmetics.com</Typography>
       </FlexBetween>
       <Typography color={medium} m="0.5rem 0">
-        Your pathway to stunning and immaculate beauty and made sure your skin
-        is exfoliating skin and shining like light.
+        Su camino hacia la belleza deslumbrante e inmaculada.
       </Typography>
     </WidgetWrapper>
   );
